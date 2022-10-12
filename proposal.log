@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  12 OCT 2022 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  12 OCT 2022 17:25
 entering extended mode
 **./proposal.tex
 (proposal.tex
@@ -313,7 +313,7 @@ File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [lettersize].
 
-No file proposal.aux.
+(proposal.aux)
 \openout1 = `proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -330,6 +330,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
 LaTeX Font Info:    ... okay on input line 16.
+
 -- Lines per column: 58 (exact).
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -374,27 +375,6 @@ LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 6
 (C:\Users\Danny\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-
-LaTeX Warning: Citation `ref1' on page 1 undefined on input line 76.
-
-
-LaTeX Warning: Citation `ref2' on page 1 undefined on input line 76.
-
-
-LaTeX Warning: Citation `ref3' on page 1 undefined on input line 76.
-
-
-LaTeX Warning: Citation `ref4' on page 1 undefined on input line 76.
-
-
-LaTeX Warning: Citation `ref5' on page 1 undefined on input line 76.
-
-
-LaTeX Warning: Citation `ref6' on page 1 undefined on input line 84.
-
-
-LaTeX Warning: Reference `deqn_ex1a' on page 1 undefined on input line 91.
-
 [1{C:/Users/Danny/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
 
 
@@ -405,38 +385,14 @@ LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
 (C:\Users\Danny\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-
-LaTeX Warning: Citation `ref1' on page 2 undefined on input line 107.
-
 LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 1
 09.
+
 (C:\Users\Danny\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 109.
-
-
-LaTeX Warning: Citation `ref1' on page 2 undefined on input line 110.
-
-
-LaTeX Warning: Citation `ref2' on page 2 undefined on input line 110.
-
-
-LaTeX Warning: Citation `ref3' on page 2 undefined on input line 110.
-
-
-LaTeX Warning: Citation `ref1' on page 2 undefined on input line 110.
-
-
-LaTeX Warning: Citation `ref2' on page 2 undefined on input line 110.
-
-
-LaTeX Warning: Citation `ref3' on page 2 undefined on input line 110.
-
-
-LaTeX Warning: Citation `ref9' on page 2 undefined on input line 110.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--111
 []\OT1/ptm/m/n/10 For mul-ti-ple ci-ta-tions code as fol-lows:
@@ -445,8 +401,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 109--111
 
 Underfull \hbox (badness 10000) in paragraph at lines 109--111
 \OMS/cmsy/m/n/10 n$\OT1/pcr/m/n/10 cite\OMS/cmsy/m/n/10 f\OT1/pcr/m/n/10 ref1,r
-ef2,ref3\OMS/cmsy/m/n/10 g \OT1/ptm/m/n/10 which will pro-duce [\OT1/ptm/b/n/10
- ?\OT1/ptm/m/n/10 ],
+ef2,ref3\OMS/cmsy/m/n/10 g \OT1/ptm/m/n/10 which will pro-duce [1]--
+ []
+
+
+Underfull \hbox (badness 4739) in paragraph at lines 109--111
+\OMS/cmsy/m/n/10 n$\OT1/pcr/m/n/10 cite\OMS/cmsy/m/n/10 f\OT1/pcr/m/n/10 ref1,r
+ef2,ref3,ref9\OMS/cmsy/m/n/10 g \OT1/ptm/m/n/10 which will pro-duce
  []
 
 
@@ -474,22 +435,6 @@ Package pdftex.def Info: fig1.png  used on input line 171.
 (pdftex.def)             Requested size: 180.67499pt x 166.95505pt.
 
 [2 <./fig1.png>]
-
-LaTeX Warning: Citation `ref1' on page 3 undefined on input line 231.
-
-
-LaTeX Warning: Citation `ref2' on page 3 undefined on input line 231.
-
-
-LaTeX Warning: Citation `ref3' on page 3 undefined on input line 231.
-
-
-LaTeX Warning: Citation `ref4' on page 3 undefined on input line 231.
-
-
-LaTeX Warning: Citation `ref5' on page 3 undefined on input line 231.
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 233--234
 []\OT1/ptm/m/n/10 Further ex-am-ples can be found at $http : / / journals .
  []
@@ -499,9 +444,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 233--234
 \OT1/ptm/m/n/10 ieeeauthorcenter . ieee . org / wp-[]content / uploads / sites 
 / 7 /
  []
-
-
-LaTeX Warning: Reference `deqn_ex1' on page 3 undefined on input line 251.
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 260--262
@@ -550,44 +492,37 @@ Underfull \hbox (badness 10000) in paragraph at lines 615--618
  link
  []
 
-[6] (proposal.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[6] (proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4466 strings out of 480236
- 73477 string characters out of 2880557
- 361064 words of memory out of 3000000
+ 4468 strings out of 480236
+ 73561 string characters out of 2880557
+ 361211 words of memory out of 3000000
  20935 multiletter control sequences out of 15000+200000
  591229 words of font info for 133 fonts, out of 3000000 for 9000
  1145 hyphenation exceptions out of 8191
- 60i,10n,66p,956b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:
-/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx1
-0.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmbx7.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmex10.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Danny/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Danny/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Danny/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Danny/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
-rs/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb
-><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/c
-msy8.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/symbols/msbm10.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type
-1/urw/courier/ucrr8a.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/ty
-pe1/urw/helvetic/uhvr8a.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts
-/type1/urw/times/utmb8a.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts
-/type1/urw/times/utmbi8a.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/font
-s/type1/urw/times/utmr8a.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on proposal.pdf (6 pages, 249024 bytes).
+ 60i,10n,66p,940b,475s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/enc/dvi
+ps/base/8r.enc}<C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmbx10.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmbx7.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Danny/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Danny/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Danny/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Dan
+ny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/U
+sers/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy10.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmsy7.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmsy8.pfb><C:/Users/Danny/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/symbols/msbm10.pfb><C:/Users/Danny/AppData/Local/Programs
+/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Danny/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/Danny/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Danny/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Danny/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Danny/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on proposal.pdf (6 pages, 248402 bytes).
 PDF statistics:
  98 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
