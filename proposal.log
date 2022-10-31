@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.5)  12 OCT 2022 19:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.10.5)  29 OCT 2022 16:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -371,7 +371,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 36.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 7
-8.
+7.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
@@ -380,117 +380,117 @@ File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 
 ]
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 1
-18.
+17.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 1
-21.
+20.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 121.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 120.
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--123
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
 []\OT1/ptm/m/n/10 For mul-ti-ple ci-ta-tions code as fol-lows:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--123
+Underfull \hbox (badness 10000) in paragraph at lines 120--122
 \OMS/cmsy/m/n/10 n$\OT1/pcr/m/n/10 cite\OMS/cmsy/m/n/10 f\OT1/pcr/m/n/10 ref1,r
 ef2,ref3\OMS/cmsy/m/n/10 g \OT1/ptm/m/n/10 which will pro-duce [1]--
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 121--123
+Underfull \hbox (badness 4739) in paragraph at lines 120--122
 \OMS/cmsy/m/n/10 n$\OT1/pcr/m/n/10 cite\OMS/cmsy/m/n/10 f\OT1/pcr/m/n/10 ref1,r
 ef2,ref3,ref9\OMS/cmsy/m/n/10 g \OT1/ptm/m/n/10 which will pro-duce
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+Underfull \hbox (badness 10000) in paragraph at lines 124--125
 
  []
 
 <fig1.png, id=11, 188.20313pt x 173.89969pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 165.
+Package pdftex.def Info: fig1.png  used on input line 164.
 (pdftex.def)             Requested size: 180.67499pt x 166.95505pt.
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 180.
+Package pdftex.def Info: fig1.png  used on input line 179.
 (pdftex.def)             Requested size: 180.67499pt x 166.95505pt.
 LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
-80.
+79.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1phv.fd
 File: ot1phv.fd 2020/03/25 scalable font definitions for OT1/phv.
 )
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 183.
+Package pdftex.def Info: fig1.png  used on input line 182.
 (pdftex.def)             Requested size: 180.67499pt x 166.95505pt.
  [2 <./fig1.png>]
 Underfull \vbox (badness 2762) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 []\OT1/ptm/m/n/10 Further ex-am-ples can be found at $http : / / journals .
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 \OT1/ptm/m/n/10 ieeeauthorcenter . ieee . org / wp-[]content / uploads / sites 
 / 7 /
  []
 
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 272--274
+Underfull \hbox (badness 10000) in paragraph at lines 271--273
 
  []
 
 [4] [5]
-Underfull \hbox (badness 4832) in paragraph at lines 567--572
+Underfull \hbox (badness 4832) in paragraph at lines 566--571
 []\OT1/ptm/m/n/10 You can use a bib-li-og-ra-phy gen-er-ated by Bib-TeX
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 567--572
+Underfull \hbox (badness 4608) in paragraph at lines 566--571
 \OT1/ptm/m/n/10 as a .bbl file. Bib-TeX doc-u-men-ta-tion can be eas-ily
  []
 
 
-Underfull \hbox (badness 6380) in paragraph at lines 567--572
+Underfull \hbox (badness 6380) in paragraph at lines 566--571
 \OT1/ptm/m/n/10 ob-tained at: http://mirror.ctan.org/biblio/bibtex/contrib/doc/
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 567--572
+Underfull \hbox (badness 10000) in paragraph at lines 566--571
 \OT1/ptm/m/n/10 The IEEE-tran Bib-TeX style sup-port page is:
  []
 
 [6]
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 627.
+Package pdftex.def Info: fig1.png  used on input line 626.
 (pdftex.def)             Requested size: 72.27031pt x 66.77777pt.
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 627.
+Package pdftex.def Info: fig1.png  used on input line 626.
 (pdftex.def)             Requested size: 72.27031pt x 66.77777pt.
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 628.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 627.
 
-Underfull \hbox (badness 10000) in paragraph at lines 627--630
+Underfull \hbox (badness 10000) in paragraph at lines 626--629
 \OT1/ptm/m/n/8 and then for the 1st ar-gu-ment use
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 627--630
+Underfull \hbox (badness 10000) in paragraph at lines 626--629
 \OMS/cmsy/m/n/8 n$\OT1/pcr/m/n/8 includegraphics \OT1/ptm/m/n/8 to de-clare and
  link
  []
@@ -524,7 +524,7 @@ exmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts
 /type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
 es/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
 
-Output written on proposal.pdf (7 pages, 251018 bytes).
+Output written on proposal.pdf (7 pages, 251010 bytes).
 PDF statistics:
  123 PDF objects out of 1000 (max. 8388607)
  74 compressed objects within 1 object stream
