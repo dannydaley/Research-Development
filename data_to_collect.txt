@@ -1,6 +1,10 @@
 The data  that I need to collect from students
 
-Engagement with course related materials.
+Engagement with course related materials, this one could be tricky without
+having access to the course materials, but I will make a dummy computing module
+to serve as a placeholder.
 Time spent on the platform or times logged in.
 Times that students have created posts or created some form of status update.
+What other platforms are they used to using.
 Collect survey data on their thoughts on the platform.
+
