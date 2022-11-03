@@ -1,0 +1,6 @@
+The data  that I need to collect from students
+
+Engagement with course related materials.
+Time spent on the platform or times logged in.
+Times that students have created posts or created some form of status update.
+Collect survey data on their thoughts on the platform.
