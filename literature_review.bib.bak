@@ -190,11 +190,4 @@ The paper ends on the note: It would be of considerable interest for future stud
   year    = {2022},
 }
 
-@Article{,
-  author  = {Reynol Junco, C. Michael Elavsky and Greg Heiberger},
-  journal = {British journal of Educational Technology. Vol 44 No 2 273-287},
-  title   = {Putting twitter to the test: Assessing outcomes for student collaboration. engagement and success.},
-  year    = {2013},
-}
-
 @Comment{jabref-meta: databaseType:bibtex;}
