@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  17 NOV 2022 17:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.18)  17 NOV 2022 20:24
 entering extended mode
 **./literature_review2.tex
 (literature_review2.tex
@@ -361,19 +361,19 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 
 ]
 [2]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 211
+LaTeX Font Info:    Trying to load font information for U+msa on input line 253
 .
  (C:\Users\Danny\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 211
+LaTeX Font Info:    Trying to load font information for U+msb on input line 253
 .
 
 (C:\Users\Danny\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 2
-11.
+53.
 
 (C:\Users\Danny\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
@@ -382,51 +382,49 @@ File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 <fig1.png, id=17, 188.20313pt x 173.89969pt>
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 311.
+Package pdftex.def Info: fig1.png  used on input line 375.
 (pdftex.def)             Requested size: 72.27031pt x 66.77777pt.
 File: fig1.png Graphic file (type png)
 <use fig1.png>
-Package pdftex.def Info: fig1.png  used on input line 311.
+Package pdftex.def Info: fig1.png  used on input line 375.
 (pdftex.def)             Requested size: 72.27031pt x 66.77777pt.
 LaTeX Font Info:    Trying to load font information for OMS+pcr on input line 3
-12.
+76.
  (C:\Users\Danny\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omspcr.fd
 File: omspcr.fd 
 )
 LaTeX Font Info:    Font shape `OMS/pcr/m/n' in size <8> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 312.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 376.
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--314
+Underfull \hbox (badness 10000) in paragraph at lines 375--378
 \OT1/ptm/m/n/8 and then for the 1st ar-gu-ment use
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 311--314
+Underfull \hbox (badness 10000) in paragraph at lines 375--378
 \OMS/cmsy/m/n/8 n$\OT1/pcr/m/n/8 includegraphics \OT1/ptm/m/n/8 to de-clare and
  link
  []
 
-[4
-
- <./fig1.png>] (literature_review2.aux) ) 
+[4 <./fig1.png>] (literature_review2.aux) ) 
 Here is how much of TeX's memory you used:
- 4305 strings out of 480236
- 71797 string characters out of 2880557
- 356122 words of memory out of 3000000
- 20798 multiletter control sequences out of 15000+200000
+ 4310 strings out of 480236
+ 71891 string characters out of 2880557
+ 359142 words of memory out of 3000000
+ 20803 multiletter control sequences out of 15000+200000
  575848 words of font info for 106 fonts, out of 3000000 for 9000
  1145 hyphenation exceptions out of 8191
- 60i,10n,66p,1675b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Danny/AppData/Local/Programs
-/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Danny/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Danny/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Danny/AppData/Lo
-cal/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Danny/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Danny/AppData/
-Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Danny/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Danny/AppData
-/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
-Output written on literature_review2.pdf (4 pages, 136163 bytes).
+ 60i,10n,66p,374b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Danny/AppData/Local/Progra
+ms/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/Danny/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Danny/AppData/Local/Pr
+ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Danny/AppData/
+Local/Programs/MiKTeX/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Danny/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Danny/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/Danny/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Danny/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on literature_review2.pdf (4 pages, 139745 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

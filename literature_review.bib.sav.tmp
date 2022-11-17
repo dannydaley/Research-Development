@@ -77,11 +77,11 @@ This study found that implementing a social media aspect to a study tour in Chin
 }
 
 @Article{,
-  author   = {W.Akram, R.Kumar},
-  journal  = {International Journal of Computer Sciences and Engineering},
-  title    = {A Study on Positive and Negative Effects of Social Media on Society},
-  year     = {2017},
-  abstract = {Social media is a platform for public around the World to discuss their issues and opinions. Before knowing the
+  author     = {W.Akram, R.Kumar},
+  journal    = {International Journal of Computer Sciences and Engineering},
+  title      = {A Study on Positive and Negative Effects of Social Media on Society},
+  year       = {2017},
+  abstract   = {Social media is a platform for public around the World to discuss their issues and opinions. Before knowing the
 actual aspects of social media people must have to know what does social media mean? Social media is a term used to
 describe the interaction between groups or individuals in which they produce, share, and sometimes exchange ideas, images,
 videos and many more over the internet and in virtual communities. Children are growing up surrounded by mobile devices
@@ -94,9 +94,10 @@ internet is laden with a number of risks associated with online communities. Cyb
 harassment that is perpetrated using electronic technology, is one of the risks. In this paper we cover every aspect of social
 media with its positive and negative effects. Focus is on the particular field like health, business, education, society and youth.
 During this paper we explain how these media will influence the society in a broad way.},
-  comment  = {This paper employs on site observations, interviews and questionnaires/surveys to gather data.
+  comment    = {This paper employs on site observations, interviews and questionnaires/surveys to gather data.
 The paper concludes noting things such as ‘online networking has expanded the quality and rate of coordinated effort for students’, Social media has different merits and likewise has a few faults which influence individuals. False data can lead the training framework to disappointment. And finally, all the citizens are advised to adopt the positive aspects of social media and avoid negative effects.},
-  ranking  = {rank5},
+  ranking    = {rank5},
+  readstatus = {read},
 }
 
 @Article{,
@@ -141,18 +142,19 @@ The paper concludes with a note saying that despite the positive benefit of rapi
 }
 
 @Article{,
-  author  = {Hilal Bashir, Shabir Ahmad Bhat},
-  journal = {The International Journal of Indian Psychology, Volume 4, Issue 3},
-  title   = {Effects of Social Media on Mental Health: A Review},
-  year    = {6-2017},
-  comment = {This paper concludes observing the risks of social media and the younger generation, suggesting that it can have an epidemic-like effect of any individual. It goes on to say that social networking sites should be constrained to a certain age limit, and that any social media application that does not have a positive effect and enables things like discrimination, violence and racism, should be dissolved at once, completely.},
+  author     = {Hilal Bashir, Shabir Ahmad Bhat},
+  journal    = {The International Journal of Indian Psychology, Volume 4, Issue 3},
+  title      = {Effects of Social Media on Mental Health: A Review},
+  year       = {6-2017},
+  comment    = {This paper concludes observing the risks of social media and the younger generation, suggesting that it can have an epidemic-like effect of any individual. It goes on to say that social networking sites should be constrained to a certain age limit, and that any social media application that does not have a positive effect and enables things like discrimination, violence and racism, should be dissolved at once, completely.},
+  readstatus = {read},
 }
 
 @Article{,
   author  = {John A. Naslund, Ameya Bondre, John Torous, Kelly A. Aschbrenner},
   journal = {Journal of Technology in Behavioral Science (2020) 5:245–257},
   title   = {Social Media and Mental Health: Benefits, Risks, and Opportunitiesfor Research and Practice},
-  year    = {3-2020},
+  year    = {2020},
   comment = {The paper concludes highlighting that social media has become an important part of the lives of many individuals living with mental disorders, and that many of which use social media to share lived experiences with mental illness, seek support from others, find treatments and recommendations and access mental health services. It also recognises that social media platforms could be used to allow individuals to access evidence based treatments and support. It ends on the recognition that to fully close the gap in mental health services integrated into social media that it would require researchers to work closely with clinicians to make sure that benefits of such things on social media platforms would out-weigh any possible risks.},
 }
 
@@ -160,9 +162,8 @@ The paper concludes with a note saying that despite the positive benefit of rapi
   author  = {M O'Reilly, N Dogra , N Whiteman , J Hughes , S Eruyar, P Reilly},
   journal = {Clin Child Psychol Psychiatry. 2018 Oct;23(4):601-613.},
   title   = {Is social media bad for mental health and wellbeing? Exploring the perspectives of adolescents.},
-  year    = {10-2018},
+  year    = {12018},
   comment = {This paper conducted a study that identified that adolescents perceived social media as being a threat to mental health in 3 ways; 1) it was believed to cause mood and anxiety disorders for some adolescents, (2) it was viewed as a platform for cyberbullying, and (3) the use of social media itself  was often framed as a kind of ‘addiction’.
 It also mentions in the papers abstract that future research should focus on targeting and utilising social media for promoting mental wellbeing among adolescents and educating youth to manage the possible deleterious effects.
 In the findings of the research, it noted consistent negative views about the potential impact of social media on mental health. While there was some recognition of the possible positive effects, the overwhelming consensus amongst participants was that social media was dangerous for adolescent mental health in a broad sense, but mostly referring to the mental health of others rather than their own.
-The paper concludes stating that rather than demonising the process, they way forward may be for adolescents to be actively involved in the development of programmes that identify the way to successfully navigate social media. And that we need to find ways to utilise social media in a more positive way, and in ways that promote positive wellbeing in this group. It ends on a note that adolescents need educating about the meanings of mental health and wellbeing, as well as about mental illness and the ways of preventing this or managing it if they are diagnosed with a condition.},
-}
+The paper concludes stating that rather than demonising the process, they way forward may be for adolescents to be actively involved in the development of programmes that identify the way to successfully navigate social media. And that we need to find ways to utilise social media in a more positive way, and in ways that promote positive wellbeing in this group. It ends on a note that adolescents need educating about the meanings of mental health and wellbeing, as well as about mental illness and the ways of pr
