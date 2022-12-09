@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.5)  9 DEC 2022 18:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2022.12.5)  9 DEC 2022 18:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -314,7 +314,7 @@ File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 LaTeX Warning: Unused global option(s):
     [lettersize].
 
-No file Research_Proposal.aux.
+(./Research_Proposal.aux)
 \openout1 = `Research_Proposal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
@@ -331,6 +331,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
+
 -- Lines per column: 58 (exact).
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
@@ -357,138 +358,20 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-
-LaTeX Warning: Citation `Discord' on page 1 undefined on input line 55.
-
-
-LaTeX Warning: Citation `Liu2010' on page 1 undefined on input line 75.
-
-
-LaTeX Warning: Citation `Liu2010' on page 1 undefined on input line 83.
-
-
-LaTeX Warning: Citation `Baruah2012' on page 1 undefined on input line 83.
-
-
-LaTeX Warning: Citation `Kelm2011' on page 1 undefined on input line 94.
-
-
-LaTeX Warning: Citation `Wang2011' on page 1 undefined on input line 99.
-
-
-LaTeX Warning: Citation `Evans2014' on page 1 undefined on input line 106.
-
-
-LaTeX Warning: Citation `Williams2022' on page 1 undefined on input line 112.
-
-
-LaTeX Warning: Citation `Junco et al 2013' on page 1 undefined on input line 11
-4.
-
-
-LaTeX Warning: Citation `Evans2014' on page 1 undefined on input line 116.
-
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
+Underfull \hbox (badness 3364) in paragraph at lines 137--154
+[]\OT1/ptm/m/n/10 Haythornthwaite, Paulin, and Gruzd [10] dis-cuss an
+ []
 
-LaTeX Warning: Citation `Tripathi 2022' on page 2 undefined on input line 128.
-
-
-LaTeX Warning: Citation `Haythornthwaite et al 2016' on page 2 undefined on inp
-ut line 137.
-
-
-LaTeX Warning: Citation `Amedie 2015' on page 2 undefined on input line 156.
-
-
-LaTeX Warning: Citation `Kuppuswamy et al 2010' on page 2 undefined on input li
-ne 177.
-
-
-LaTeX Warning: Citation `Tariq et al 2012' on page 2 undefined on input line 18
-4.
-
-
-LaTeX Warning: Citation `Ellison et al 2007' on page 2 undefined on input line 
-185.
-
-
-LaTeX Warning: Citation `Pempek et al 2009' on page 2 undefined on input line 1
-93.
-
-
-LaTeX Warning: Citation `Akram et al 2017' on page 2 undefined on input line 19
-5.
-
-
-LaTeX Warning: Citation `Tariq et al 2012' on page 2 undefined on input line 21
-1.
-
-[2]
-
-LaTeX Warning: Citation `Bashir et al 2015' on page 3 undefined on input line 2
-15.
-
-
-LaTeX Warning: Citation `Bashir et al 2017' on page 3 undefined on input line 2
-25.
-
-
-LaTeX Warning: Citation `Pantic et al 2012' on page 3 undefined on input line 2
-27.
-
-
-LaTeX Warning: Citation `Rosen et al 2013' on page 3 undefined on input line 22
-8.
-
-
-LaTeX Warning: Citation `Naslund et al 2020' on page 3 undefined on input line 
-235.
-
-[3]
-
-LaTeX Warning: Citation `Daley 2022' on page 4 undefined on input line 292.
-
-
-LaTeX Warning: Citation `myCircle' on page 4 undefined on input line 292.
-
-
-LaTeX Warning: Citation `myUni404' on page 4 undefined on input line 298.
-
+[2] [3]
 <myCircle.PNG, id=16, 1243.64626pt x 707.64375pt>
 File: myCircle.PNG Graphic file (type png)
 <use myCircle.PNG>
 Package pdftex.def Info: myCircle.PNG  used on input line 305.
 (pdftex.def)             Requested size: 252.0pt x 143.38345pt.
-
-LaTeX Warning: Citation `React' on page 4 undefined on input line 316.
-
-
-LaTeX Warning: Citation `Mui' on page 4 undefined on input line 317.
-
-
-LaTeX Warning: Citation `Node' on page 4 undefined on input line 317.
-
-
-LaTeX Warning: Citation `Express' on page 4 undefined on input line 318.
-
-
-LaTeX Warning: Citation `Agile' on page 4 undefined on input line 323.
-
-
-LaTeX Warning: Citation `Jest' on page 4 undefined on input line 328.
-
-
-LaTeX Warning: Citation `Mocha' on page 4 undefined on input line 328.
-
-
-LaTeX Warning: Citation `SuperTest' on page 4 undefined on input line 329.
-
-
-LaTeX Warning: Citation `ISO25000' on page 4 undefined on input line 333.
-
 <iso.png, id=17, 732.8178pt x 207.174pt>
 File: iso.png Graphic file (type png)
 <use iso.png>
@@ -500,31 +383,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 341--341
  []
 
 [4 <./myCircle.PNG (PNG copy)> <./iso.png>]
-
-LaTeX Warning: Citation `Liu2010' on page 5 undefined on input line 363.
-
-
-LaTeX Warning: Citation `Baruah2012' on page 5 undefined on input line 363.
-
-
-LaTeX Warning: Citation `Wang2011' on page 5 undefined on input line 363.
-
-
-LaTeX Warning: Citation `Evans2014' on page 5 undefined on input line 363.
-
-
-LaTeX Warning: Citation `Akram et al 2017' on page 5 undefined on input line 36
-3.
-
-
-LaTeX Warning: Citation `Gov UK Data Protection' on page 5 undefined on input l
-ine 380.
-
-
-LaTeX Warning: Citation `ICO' on page 5 undefined on input line 387.
-
 LaTeX Font Info:    Trying to load font information for U+msa on input line 402
 .
+
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -580,28 +441,22 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 621--622
 ] [10
 
 
-] (./Research_Proposal.aux)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+] (./Research_Proposal.aux) ) 
 Here is how much of TeX's memory you used:
- 4640 strings out of 480171
- 81177 string characters out of 5894489
- 380777 words of memory out of 5000000
+ 4641 strings out of 480171
+ 81215 string characters out of 5894489
+ 380933 words of memory out of 5000000
  22534 multiletter control sequences out of 15000+600000
- 507882 words of font info for 100 fonts, out of 8000000 for 9000
+ 506775 words of font info for 99 fonts, out of 8000000 for 9000
  63 hyphenation exceptions out of 8191
  55i,15n,63p,365b,264s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf
--dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/u
-tmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Research_Proposal.pdf (10 pages, 765416 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/bas
+e/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/times/utmri8a.pfb>
+Output written on Research_Proposal.pdf (10 pages, 764430 bytes).
 PDF statistics:
  72 PDF objects out of 1000 (max. 8388607)
  41 compressed objects within 1 object stream
